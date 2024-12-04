@@ -33,7 +33,6 @@
                         </div>
                     </div>
                     <div class="col-md-2">
-                        <input type="submit" class="profile-edit-btn" name="btnAddMore" value="Edit Profile"/>
                     </div>
                 </div>
                 <div class="row">

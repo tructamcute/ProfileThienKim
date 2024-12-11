@@ -82,7 +82,7 @@
   background-repeat: no-repeat;
 }
 </style>
-  <canvas id="canvas" width="1400" height="600"></canvas>
+  <canvas id="canvas" width="device-width" height="auto"></canvas>
 <script>
   var canvas = document.getElementById("canvas");
 
